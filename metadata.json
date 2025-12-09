@@ -1,0 +1,5 @@
+{
+  "name": "ShopAI Agent",
+  "description": "A smart customer support agent powered by Gemini that assists users with product searches and store policies using the Platzi Fake Store API.",
+  "requestFramePermissions": []
+}

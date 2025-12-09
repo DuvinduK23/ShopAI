@@ -1,0 +1,202 @@
+[
+  {
+    "orderId": "ORD-001",
+    "customerEmail": "alice@example.com",
+    "status": "Delivered",
+    "items": ["Fjallraven Backpack", "Cotton Jacket"],
+    "total": 165.98,
+    "deliveryDate": "2025-12-05",
+    "carrier": "FedEx",
+    "trackingURL": "https://fedex.com/track/001"
+  },
+  {
+    "orderId": "ORD-002",
+    "customerEmail": "bob@example.com",
+    "status": "Processing",
+    "items": ["SanDisk SSD 1TB"],
+    "total": 109.00,
+    "deliveryDate": "TBD",
+    "carrier": "UPS",
+    "notes": "Payment verification pending."
+  },
+  {
+    "orderId": "ORD-003",
+    "customerEmail": "charlie@example.com",
+    "status": "Delayed",
+    "items": ["Acer Monitor 27\""],
+    "total": 250.00,
+    "deliveryDate": "2025-12-25",
+    "carrier": "DHL",
+    "notes": "Delayed due to bad weather in transit hub."
+  },
+  {
+    "orderId": "ORD-004",
+    "customerEmail": "diana@example.com",
+    "status": "Shipped",
+    "items": ["Gold Petite Micropave Ring", "Silver Dragon Earrings"],
+    "total": 425.50,
+    "deliveryDate": "2025-12-12",
+    "carrier": "FedEx",
+    "trackingURL": "https://fedex.com/track/004"
+  },
+  {
+    "orderId": "ORD-005",
+    "customerEmail": "edward@example.com",
+    "status": "Processing",
+    "items": ["Mens Casual Premium Slim Fit T-Shirts", "Mens Cotton Jacket"],
+    "total": 78.99,
+    "deliveryDate": "TBD",
+    "carrier": "USPS",
+    "notes": "Order confirmed, awaiting warehouse pickup."
+  },
+  {
+    "orderId": "ORD-006",
+    "customerEmail": "fiona@example.com",
+    "status": "Cancelled",
+    "items": ["WD 2TB External Hard Drive"],
+    "total": 64.00,
+    "deliveryDate": "N/A",
+    "carrier": "N/A",
+    "notes": "Cancelled by customer request. Refund processed."
+  },
+  {
+    "orderId": "ORD-007",
+    "customerEmail": "george@example.com",
+    "status": "Shipped",
+    "items": ["Samsung 49\" Curved Monitor", "HDMI Cable 6ft"],
+    "total": 999.99,
+    "deliveryDate": "2025-12-14",
+    "carrier": "UPS",
+    "trackingURL": "https://ups.com/track/007"
+  },
+  {
+    "orderId": "ORD-008",
+    "customerEmail": "hannah@example.com",
+    "status": "Delivered",
+    "items": ["Pierced Owl Rose Gold Plated Stainless Steel Double Ring"],
+    "total": 45.99,
+    "deliveryDate": "2025-12-01",
+    "carrier": "USPS",
+    "trackingURL": "https://usps.com/track/008"
+  },
+  {
+    "orderId": "ORD-009",
+    "customerEmail": "ivan@example.com",
+    "status": "Delayed",
+    "items": ["Mens Casual Slim Fit Jacket", "Rain Jacket Women Windbreaker"],
+    "total": 112.98,
+    "deliveryDate": "2025-12-20",
+    "carrier": "DHL",
+    "notes": "Customs clearance delay. Expected to resume soon."
+  },
+  {
+    "orderId": "ORD-010",
+    "customerEmail": "julia@example.com",
+    "status": "Processing",
+    "items": ["White Gold Plated Princess Necklace"],
+    "total": 9.99,
+    "deliveryDate": "TBD",
+    "carrier": "FedEx",
+    "notes": "Gift wrapping requested."
+  },
+  {
+    "orderId": "ORD-011",
+    "customerEmail": "kevin@example.com",
+    "status": "Shipped",
+    "items": ["Opna Women's Short Sleeve Moisture T-Shirt", "BIYLACLESEN Women's 3-in-1 Snowboard Jacket"],
+    "total": 83.97,
+    "deliveryDate": "2025-12-11",
+    "carrier": "UPS",
+    "trackingURL": "https://ups.com/track/011"
+  },
+  {
+    "orderId": "ORD-012",
+    "customerEmail": "lisa@example.com",
+    "status": "Delivered",
+    "items": ["John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet"],
+    "total": 695.00,
+    "deliveryDate": "2025-11-28",
+    "carrier": "FedEx",
+    "trackingURL": "https://fedex.com/track/012",
+    "notes": "Signature confirmed on delivery."
+  },
+  {
+    "orderId": "ORD-013",
+    "customerEmail": "mike@example.com",
+    "status": "Processing",
+    "items": ["Silicon Power 256GB SSD", "Acer SB220Q bi 21.5\" Monitor"],
+    "total": 163.00,
+    "deliveryDate": "TBD",
+    "carrier": "DHL"
+  },
+  {
+    "orderId": "ORD-014",
+    "customerEmail": "nancy@example.com",
+    "status": "Cancelled",
+    "items": ["WD 4TB Gaming Drive - Black"],
+    "total": 114.00,
+    "deliveryDate": "N/A",
+    "carrier": "N/A",
+    "notes": "Item out of stock. Full refund issued."
+  },
+  {
+    "orderId": "ORD-015",
+    "customerEmail": "oliver@example.com",
+    "status": "Shipped",
+    "items": ["Fjallraven - Foldsack No. 1 Backpack"],
+    "total": 109.95,
+    "deliveryDate": "2025-12-13",
+    "carrier": "USPS",
+    "trackingURL": "https://usps.com/track/015"
+  },
+  {
+    "orderId": "ORD-016",
+    "customerEmail": "patricia@example.com",
+    "status": "Delayed",
+    "items": ["Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket"],
+    "total": 29.95,
+    "deliveryDate": "2025-12-22",
+    "carrier": "UPS",
+    "notes": "High volume delays during holiday season."
+  },
+  {
+    "orderId": "ORD-017",
+    "customerEmail": "quinn@example.com",
+    "status": "Delivered",
+    "items": ["MBJ Women's Solid Short Sleeve Boat Neck V Back Dress"],
+    "total": 16.99,
+    "deliveryDate": "2025-12-02",
+    "carrier": "USPS"
+  },
+  {
+    "orderId": "ORD-018",
+    "customerEmail": "rachel@example.com",
+    "status": "Shipped",
+    "items": ["Solid Gold Petite Micropave Ring", "Rose Gold Diamond Ring"],
+    "total": 570.00,
+    "deliveryDate": "2025-12-15",
+    "carrier": "FedEx",
+    "trackingURL": "https://fedex.com/track/018",
+    "notes": "Insurance included for high-value items."
+  },
+  {
+    "orderId": "ORD-019",
+    "customerEmail": "steve@example.com",
+    "status": "Processing",
+    "items": ["Mens Slim Fit T-Shirt 3-Pack"],
+    "total": 34.99,
+    "deliveryDate": "TBD",
+    "carrier": "USPS",
+    "notes": "Standard shipping selected."
+  },
+  {
+    "orderId": "ORD-020",
+    "customerEmail": "tina@example.com",
+    "status": "Delivered",
+    "items": ["Samsung Galaxy S21 Case", "USB-C Charging Cable 3-Pack"],
+    "total": 28.50,
+    "deliveryDate": "2025-11-30",
+    "carrier": "UPS",
+    "trackingURL": "https://ups.com/track/020"
+  }
+]

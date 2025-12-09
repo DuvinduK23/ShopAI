@@ -1,0 +1,407 @@
+[
+  {
+    "id": 101,
+    "title": "Kids LED Light-Up Sneakers",
+    "price": 34.99,
+    "description": "Fun light-up sneakers for kids with colorful LED lights in the sole. Rechargeable via USB. Perfect for parties and playtime.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1555274175-6cbf6f3b137b?w=300",
+    "rating": { "rate": 4.7, "count": 234 }
+  },
+  {
+    "id": 102,
+    "title": "Youth Gaming Headset - RGB",
+    "price": 29.99,
+    "description": "Comfortable gaming headset designed for younger gamers. Adjustable headband, noise-canceling mic, and cool RGB lighting.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=300",
+    "rating": { "rate": 4.5, "count": 189 }
+  },
+  {
+    "id": 103,
+    "title": "Kids Smartwatch with GPS Tracker",
+    "price": 49.99,
+    "description": "Safety-first smartwatch for children. Features GPS tracking, SOS button, two-way calling, and fun games. Peace of mind for parents.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300",
+    "rating": { "rate": 4.8, "count": 412 }
+  },
+  {
+    "id": 104,
+    "title": "Teen Wireless Earbuds - Pastel Pink",
+    "price": 24.99,
+    "description": "Stylish wireless earbuds in trendy pastel colors. 20-hour battery life, touch controls, and great sound quality for music lovers.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=300",
+    "rating": { "rate": 4.4, "count": 156 }
+  },
+  {
+    "id": 105,
+    "title": "Youth Graphic Hoodie - Space Design",
+    "price": 32.99,
+    "description": "Cool space-themed hoodie for teens. Soft cotton blend, kangaroo pocket, and glow-in-the-dark galaxy print.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=300",
+    "rating": { "rate": 4.6, "count": 278 }
+  },
+  {
+    "id": 106,
+    "title": "Kids Tablet 7-inch Learning Edition",
+    "price": 79.99,
+    "description": "Educational tablet for children ages 3-10. Pre-loaded with learning apps, parental controls, and shockproof case included.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=300",
+    "rating": { "rate": 4.3, "count": 523 }
+  },
+  {
+    "id": 107,
+    "title": "Teen Backpack - Anime Edition",
+    "price": 39.99,
+    "description": "Trendy anime-style backpack with multiple compartments. Fits 15-inch laptop, water bottle pocket, and USB charging port.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300",
+    "rating": { "rate": 4.7, "count": 345 }
+  },
+  {
+    "id": 108,
+    "title": "Kids Dinosaur Pajama Set",
+    "price": 19.99,
+    "description": "Adorable dinosaur-print pajama set for children. 100% cotton, soft and breathable. Ages 4-12 available.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=300",
+    "rating": { "rate": 4.9, "count": 187 }
+  },
+  {
+    "id": 109,
+    "title": "Youth Skateboard - Pro Series",
+    "price": 54.99,
+    "description": "Complete skateboard for beginners and intermediate riders. Maple deck, ABEC-7 bearings, and cool graphic designs.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1547447134-cd3f5c716030?w=300",
+    "rating": { "rate": 4.5, "count": 234 }
+  },
+  {
+    "id": 110,
+    "title": "Kids Waterproof Rain Jacket",
+    "price": 28.99,
+    "description": "Colorful waterproof jacket for rainy days. Reflective strips for safety, hood with visor, and fun patterns.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1591085686350-798c0f9faa7f?w=300",
+    "rating": { "rate": 4.6, "count": 198 }
+  },
+  {
+    "id": 111,
+    "title": "Teen LED Desk Lamp with Phone Charger",
+    "price": 27.99,
+    "description": "Study lamp with adjustable brightness, color temperature control, and built-in wireless phone charger. Perfect for homework.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=300",
+    "rating": { "rate": 4.4, "count": 156 }
+  },
+  {
+    "id": 112,
+    "title": "Kids Superhero Costume Set",
+    "price": 24.99,
+    "description": "Dress-up superhero costume with cape, mask, and accessories. High-quality materials for endless imaginative play.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=300",
+    "rating": { "rate": 4.8, "count": 312 }
+  },
+  {
+    "id": 113,
+    "title": "Youth Fitness Tracker Band",
+    "price": 34.99,
+    "description": "Fitness tracker designed for active teens. Step counter, sleep tracking, heart rate monitor, and fun challenges.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=300",
+    "rating": { "rate": 4.3, "count": 267 }
+  },
+  {
+    "id": 114,
+    "title": "Kids Magnetic Building Blocks Set",
+    "price": 44.99,
+    "description": "100-piece magnetic building set for creative play. STEM educational toy that develops spatial thinking and creativity.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=300",
+    "rating": { "rate": 4.9, "count": 456 }
+  },
+  {
+    "id": 115,
+    "title": "Teen Portable Bluetooth Speaker",
+    "price": 22.99,
+    "description": "Compact waterproof speaker with amazing bass. Perfect for beach trips, pool parties, and hanging out with friends.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=300",
+    "rating": { "rate": 4.5, "count": 189 }
+  },
+  {
+    "id": 116,
+    "title": "Kids Polaroid Instant Camera",
+    "price": 59.99,
+    "description": "Fun instant camera for kids. Easy to use, takes instant photos, and comes with fun photo frames and stickers.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=300",
+    "rating": { "rate": 4.7, "count": 234 }
+  },
+  {
+    "id": 117,
+    "title": "Youth Soccer Jersey - Team Edition",
+    "price": 29.99,
+    "description": "Breathable soccer jersey for young athletes. Moisture-wicking fabric, lightweight, and available in multiple team colors.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1551123459-f26e9c8a4e95?w=300",
+    "rating": { "rate": 4.6, "count": 378 }
+  },
+  {
+    "id": 118,
+    "title": "Kids Night Light Projector",
+    "price": 18.99,
+    "description": "Star projector night light that creates a magical galaxy on the ceiling. Timer function, multiple colors, and remote control.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=300",
+    "rating": { "rate": 4.8, "count": 567 }
+  },
+  {
+    "id": 119,
+    "title": "Teen Art Supply Kit - 150 Pieces",
+    "price": 36.99,
+    "description": "Complete art set with colored pencils, markers, watercolors, sketchpad, and more. Perfect gift for creative teens.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=300",
+    "rating": { "rate": 4.7, "count": 423 }
+  },
+  {
+    "id": 120,
+    "title": "Kids Electric Scooter - Mini",
+    "price": 129.99,
+    "description": "Safe electric scooter for kids ages 6-12. Max speed 8 mph, LED lights, and foldable design for easy storage.",
+    "category": "kids",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300",
+    "rating": { "rate": 4.4, "count": 289 }
+  },
+  {
+    "id": 201,
+    "title": "Young Adult Leather Wallet - Minimalist",
+    "price": 24.99,
+    "description": "Slim leather wallet with RFID blocking. Perfect first wallet for teens and young adults. Multiple card slots and cash pocket.",
+    "category": "young adults",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=300",
+    "rating": { "rate": 4.5, "count": 234 }
+  },
+  {
+    "id": 202,
+    "title": "College Student Laptop Stand",
+    "price": 29.99,
+    "description": "Ergonomic aluminum laptop stand. Adjustable height, foldable, and compatible with all laptops. Great for dorm rooms.",
+    "category": "young adults",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300",
+    "rating": { "rate": 4.6, "count": 456 }
+  },
+  {
+    "id": 203,
+    "title": "Trendy Oversized Sunglasses",
+    "price": 19.99,
+    "description": "Fashion-forward oversized sunglasses with UV400 protection. Multiple color options for the style-conscious.",
+    "category": "young adults",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=300",
+    "rating": { "rate": 4.3, "count": 312 }
+  },
+  {
+    "id": 204,
+    "title": "Dorm Room LED Strip Lights",
+    "price": 15.99,
+    "description": "16ft RGB LED strip lights with remote control. 16 colors, multiple modes, and easy adhesive installation. Vibe setter!",
+    "category": "young adults",
+    "image": "https://images.unsplash.com/photo-1545127398-14699f92334b?w=300",
+    "rating": { "rate": 4.7, "count": 678 }
+  },
+  {
+    "id": 205,
+    "title": "Portable Phone Ring Light",
+    "price": 12.99,
+    "description": "Clip-on ring light for perfect selfies and video calls. 3 brightness levels, rechargeable, and fits all phones.",
+    "category": "young adults",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=300",
+    "rating": { "rate": 4.4, "count": 234 }
+  },
+  {
+    "id": 301,
+    "title": "14K Gold Diamond Solitaire Ring",
+    "price": 899.99,
+    "description": "Elegant 14K yellow gold ring with a sparkling 0.5 carat diamond solitaire. Perfect for engagements or special occasions.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=300",
+    "rating": { "rate": 4.9, "count": 156 }
+  },
+  {
+    "id": 302,
+    "title": "18K Gold Cuban Link Chain Necklace",
+    "price": 1249.99,
+    "description": "Luxurious 18K solid gold Cuban link chain. 20 inches long, 5mm width. Classic hip-hop style with premium craftsmanship.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=300",
+    "rating": { "rate": 4.8, "count": 234 }
+  },
+  {
+    "id": 303,
+    "title": "Gold Hoop Earrings - 14K Classic",
+    "price": 189.99,
+    "description": "Timeless 14K gold hoop earrings. 25mm diameter, lightweight and comfortable for all-day wear. Hypoallergenic.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=300",
+    "rating": { "rate": 4.7, "count": 312 }
+  },
+  {
+    "id": 304,
+    "title": "Gold Tennis Bracelet with CZ Diamonds",
+    "price": 349.99,
+    "description": "Stunning gold-plated tennis bracelet with cubic zirconia stones. 7 inches, adjustable clasp. Red carpet elegance.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=300",
+    "rating": { "rate": 4.6, "count": 189 }
+  },
+  {
+    "id": 305,
+    "title": "14K Gold Heart Pendant Necklace",
+    "price": 279.99,
+    "description": "Romantic 14K gold heart pendant on an 18-inch chain. Perfect gift for anniversaries, birthdays, or Valentine's Day.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=300",
+    "rating": { "rate": 4.8, "count": 423 }
+  },
+  {
+    "id": 306,
+    "title": "Gold Signet Ring - Personalized",
+    "price": 399.99,
+    "description": "Classic 10K gold signet ring. Can be engraved with initials or family crest. Timeless men's accessory.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1603561596112-0a132b757442?w=300",
+    "rating": { "rate": 4.5, "count": 145 }
+  },
+  {
+    "id": 307,
+    "title": "Rose Gold Diamond Stud Earrings",
+    "price": 549.99,
+    "description": "Beautiful 14K rose gold studs with 0.25 carat total diamond weight. Elegant and versatile for any occasion.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1589128777073-263566ae5e4d?w=300",
+    "rating": { "rate": 4.9, "count": 267 }
+  },
+  {
+    "id": 308,
+    "title": "Gold Anklet with Charm",
+    "price": 129.99,
+    "description": "Delicate 14K gold anklet with small heart charm. 9-10 inch adjustable length. Perfect for summer.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=300",
+    "rating": { "rate": 4.4, "count": 178 }
+  },
+  {
+    "id": 309,
+    "title": "18K Gold Wedding Band Set",
+    "price": 1599.99,
+    "description": "Matching his and hers 18K gold wedding bands. Classic comfort fit design, 4mm width. Symbol of eternal love.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1544127358-8a0d0c9fa5b5?w=300",
+    "rating": { "rate": 5.0, "count": 89 }
+  },
+  {
+    "id": 310,
+    "title": "Gold Layered Necklace Set",
+    "price": 159.99,
+    "description": "Trendy 3-piece layered necklace set in gold vermeil. Includes choker, pendant, and long chain. Instagram-worthy style.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=300",
+    "rating": { "rate": 4.6, "count": 345 }
+  },
+  {
+    "id": 311,
+    "title": "Sterling Silver Statement Ring",
+    "price": 79.99,
+    "description": "Bold sterling silver ring with intricate filigree design. Oxidized finish for vintage appeal. Sizes 5-12 available.",
+    "category": "silver jewelry",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=300",
+    "rating": { "rate": 4.5, "count": 234 }
+  },
+  {
+    "id": 312,
+    "title": "Silver Pearl Drop Earrings",
+    "price": 89.99,
+    "description": "Elegant sterling silver earrings with freshwater pearl drops. Classic design perfect for weddings and formal events.",
+    "category": "silver jewelry",
+    "image": "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?w=300",
+    "rating": { "rate": 4.7, "count": 189 }
+  },
+  {
+    "id": 313,
+    "title": "Diamond Eternity Band - White Gold",
+    "price": 1299.99,
+    "description": "Stunning 14K white gold eternity band with channel-set diamonds. 1 carat total weight. Ultimate luxury.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=300",
+    "rating": { "rate": 4.9, "count": 123 }
+  },
+  {
+    "id": 314,
+    "title": "Gold Charm Bracelet - Customizable",
+    "price": 249.99,
+    "description": "14K gold charm bracelet with 5 starter charms included. Add more charms to tell your story. Great gift idea.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=300",
+    "rating": { "rate": 4.6, "count": 267 }
+  },
+  {
+    "id": 315,
+    "title": "Men's Gold ID Bracelet",
+    "price": 449.99,
+    "description": "Classic 14K gold ID bracelet for men. Can be engraved. 8.5 inches with secure clasp. Timeless masculine style.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=300",
+    "rating": { "rate": 4.7, "count": 156 }
+  },
+  {
+    "id": 316,
+    "title": "Birthstone Gold Pendant - Sapphire",
+    "price": 329.99,
+    "description": "Beautiful 14K gold pendant with genuine blue sapphire. September birthstone. Includes 18-inch gold chain.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=300",
+    "rating": { "rate": 4.8, "count": 198 }
+  },
+  {
+    "id": 317,
+    "title": "Gold Infinity Necklace",
+    "price": 199.99,
+    "description": "Symbolic 14K gold infinity pendant necklace. Represents eternal love and friendship. 16-18 inch adjustable chain.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=300",
+    "rating": { "rate": 4.7, "count": 312 }
+  },
+  {
+    "id": 318,
+    "title": "Vintage Gold Brooch - Art Deco",
+    "price": 189.99,
+    "description": "Exquisite Art Deco style gold brooch with crystal accents. Perfect for adding elegance to blazers and scarves.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1576022162028-3a9c0e3b0c6a?w=300",
+    "rating": { "rate": 4.5, "count": 89 }
+  },
+  {
+    "id": 319,
+    "title": "Gold Toe Ring Set",
+    "price": 49.99,
+    "description": "Set of 3 adjustable 14K gold-filled toe rings. Bohemian beach style. Comfortable for everyday wear.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=300",
+    "rating": { "rate": 4.3, "count": 145 }
+  },
+  {
+    "id": 320,
+    "title": "18K Gold Omega Necklace",
+    "price": 2199.99,
+    "description": "Premium 18K gold Omega chain necklace. 16 inches, 4mm width. Smooth, flexible, and incredibly luxurious.",
+    "category": "gold jewelry",
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=300",
+    "rating": { "rate": 4.9, "count": 67 }
+  }
+]
