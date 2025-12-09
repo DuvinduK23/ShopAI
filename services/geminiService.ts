@@ -303,6 +303,6 @@ export const sendMessageToGemini = async (userMessage: string): Promise<string> 
     console.error("Gemini Interaction Error:", error);
     // Note: If you see "429 Resource Exhausted" errors, the Gemini API quota has been exceeded.
     // Wait a few minutes or check your Google AI Studio usage limits.
-    throw new Error("I'm having trouble connecting right now. or the Gemini API quota has been exceeded. Please try again in a moment.");
+    throw new Error("I'm having trouble connecting right now.If you see \"429 Resource Exhausted\" errors, the Gemini API quota has been exceeded. Please try again in a moment.");
   }
 };
