@@ -301,6 +301,6 @@ export const sendMessageToGemini = async (userMessage: string): Promise<string> 
 
   } catch (error) {
     console.error("Gemini Interaction Error:", error);
-    throw new Error("I encountered an error while talking to the store database.");
+    throw new Error("I encountered an error while talking to the store database./ Gemini API quota exceeded.");
   }
 };
