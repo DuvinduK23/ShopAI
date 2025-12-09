@@ -1,6 +1,9 @@
 # ShopAI 🛍️
 ![ShopAI Demo](image.png)
+
 An AI-powered shopping assistant built with React and Google Gemini API.
+
+🔗 **Live Demo:** [https://shop-ai-plum.vercel.app/](https://shop-ai-plum.vercel.app/)
 
 ## Author
 
